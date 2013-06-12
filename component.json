@@ -1,0 +1,8 @@
+{
+  "name": "element-insert",
+  "repo": "enricomarino/element-insert",
+  "description": "insert - plugin for element",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": ["index.js"]
+}
