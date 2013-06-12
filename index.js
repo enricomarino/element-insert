@@ -56,7 +56,7 @@ module.exports = function (element) {
    */
   
   element.prototype.into = function (other) {
-    other.append(this.el);
+    other.appendChild(this.el);
     return this;
   };
   
