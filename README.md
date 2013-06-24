@@ -10,11 +10,13 @@ insert, plugin for element
 
 ### element#prepend(other:Element):element
 
-### element#prepend(other:Element):element
+### element#append(other:Element):element
 
-### element#prepend(other:Element):element
+### element#into(other:Element):element
 
-### element#prepend(other:Element):element
+### element#before(other:Element):element
+
+### element#after(other:Element):element
 
 ## License
 
