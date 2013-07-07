@@ -1,6 +1,6 @@
 # element-insert
 
-insert, plugin for element
+insert, plugin for [element](https://github.com/enricomarino/element)
 
 ## Installation
 
